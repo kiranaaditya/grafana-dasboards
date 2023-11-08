@@ -57,7 +57,7 @@
     {
       "datasource": {
         "type": "loki",
-        "uid": "${DS_LOKI}"
+        "uid": "P8E80F9AEF21F6940"
       },
       "fieldConfig": {
         "defaults": {
@@ -126,7 +126,7 @@
         {
           "datasource": {
             "type": "loki",
-            "uid": "${DS_LOKI}"
+            "uid": "P8E80F9AEF21F6940"
           },
           "editorMode": "builder",
           "expr": "{namespace=\"suprmen\", container=\"portal\"}",
